@@ -1,0 +1,6 @@
+10	Administration	200	1700
+20	Marketing	201	3200
+30	Purchasing	114	4000
+40	Human resources	203	5230
+50	Shipping	112	4500
+

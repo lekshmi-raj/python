@@ -1,0 +1,3 @@
+10	Administration	200	1700
+30	Purchasing	114	4000
+50	Shipping	112	4500
